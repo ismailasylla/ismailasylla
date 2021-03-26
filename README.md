@@ -6,7 +6,7 @@ My speciality resides in Front-End Development Using Frameworks like React/Angul
 
 Skills: REACT / Angular / HTML / CSS / JS 
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on few projects. 
 - 🌱 I’m currently learning Blockchain, React, Angular  
 - 👯 I’m looking to collaborate on Open Source projects 
 - 💬 Ask me about Web Developement 
