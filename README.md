@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Ismaila Sylla
+### Hi there 👋, my name is Ismaila Sylla, my friends call me Isma,
 #### I'm a Front End Developer
 ![I'm a Front End Developer](https://media-exp1.licdn.com/dms/image/C5116AQEWD5u_RHTEcA/profile-displaybackgroundimage-shrink_350_1400/0/1586945582767?e=1622073600&v=beta&t=pceO9zpthPENEtzOilcIv6WVPRjMLkpelmRca1MK9oQ)
 
