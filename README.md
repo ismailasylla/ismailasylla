@@ -13,10 +13,10 @@ Skills: REACT / Angular / HTML / CSS / JS
 - 📫 How to reach me: LinkedIn at https://www.linkedin.com/in/ismaila-sylla-04377b126/ 
 - 😄 Pronouns: Akatsuki 🥷 
 - ⚡ Fun fact: I am a Javascript Ninja 😄 , not quite yet but working on that! 
-- I love Gaming 🎮 
-- Sports Lover ⚽️ 🏀 🏉
-- Nature Guy 🌴 🌳 🌺
-- I love Animes 🥷 
+- 🎮 I love Gaming 
+- ⚽️ 🏀 🏉 Sports Lover 
+- 🌴 🌳 🌺 Nature Guy 
+- 🥷 I love Animes 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismailasylla)](https://github.com/anuraghazra/github-readme-stats)
