@@ -16,6 +16,7 @@ Skills: REACT / Angular / HTML / CSS / JS
 - I love Gaming 🎮 
 - Sports Lover ⚽️ 🏀 🏉
 - Nature Guy 🌴 🌳 🌺
+- I love Animes 🥷 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismailasylla)](https://github.com/anuraghazra/github-readme-stats)
