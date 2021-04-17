@@ -18,7 +18,7 @@ Skills: REACT / Angular / HTML / CSS / JS
 - 🌴 🌳 🌺 Nature Guy 
 - 🥷 I love Animes 
 
-- One of my personal project https://artemos.herokuapp.com/
+- One of my personal project check it out at https://artemos.herokuapp.com/
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismailasylla)](https://github.com/anuraghazra/github-readme-stats)
