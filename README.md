@@ -7,7 +7,7 @@ My speciality resides in Front-End Development Using Frameworks like React/Angul
 Skills: REACT / Angular / HTML / CSS / JS 
 
 - 🔭 I’m currently working on few projects. 
-- 🌱 I’m currently learning Blockchain, React, Angular, Next.js
+- 🌱 I’m currently learning Blockchain developement | Ethereum, React, Angular, Next.js
 - 👯 I’m looking to collaborate on Open Source projects 
 - 💬 Ask me about Web Developement 
 - 📫 How to reach me: LinkedIn at https://www.linkedin.com/in/ismaila-sylla-04377b126/ 
