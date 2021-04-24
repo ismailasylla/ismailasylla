@@ -18,7 +18,7 @@ Skills: React | Angular | Next.js | Node.js | HTML / CSS / JS
 - 🌴 🌳 🌺 Nature Guy 
 - 🥷 I love Animes 
 
-- One of my personal, a MERN Stack App Build with React && Node JS project check it out at https://artemos.herokuapp.com/
+- Developing, a MERN Stack App Build with React && Node JS project check it out at https://artemos.herokuapp.com/
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismailasylla)](https://github.com/anuraghazra/github-readme-stats)
