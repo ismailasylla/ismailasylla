@@ -4,7 +4,7 @@
 
 My speciality resides in Front-End Development Using Frameworks like React/Angular and building backend services/API using Node.js. I am also familiar with blockchain technologies.
 
-Skills: REACT / Angular / HTML / CSS / JS 
+Skills: React | Angular | Next.js | Node.js | HTML / CSS / JS 
 
 - 🔭 I’m currently working on few projects. 
 - 🌱 I’m currently learning Blockchain developement | Ethereum, React, Angular, Next.js
