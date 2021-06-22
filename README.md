@@ -2,9 +2,9 @@
 #### I'm a Front End Developer
 ![I'm a Front End Developer](https://media-exp1.licdn.com/dms/image/C5116AQEWD5u_RHTEcA/profile-displaybackgroundimage-shrink_350_1400/0/1586945582767?e=1622073600&v=beta&t=pceO9zpthPENEtzOilcIv6WVPRjMLkpelmRca1MK9oQ)
 
-My speciality resides in Front-End Development Using Frameworks like React/Angular and building backend services/API using Node.js. I am also familiar with blockchain technologies.
+My speciality resides in Front-End Development Using Frameworks like React, Angular and building backend services/API using Node.js. I am also familiar with blockchain technologies.
 
-Skills: React | Angular | Next.js | Node.js | HTML / CSS / JS 
+Skills: React | Angular | Next.js | Node.js | HTML / CSS / JS / Bootstrap / Material CSS / Tailwin CSS
 
 - 🔭 I’m currently working on few projects. 
 - 🌱 I’m currently learning Blockchain developement | Ethereum, React, Angular, Next.js
