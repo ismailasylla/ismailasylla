@@ -1,15 +1,15 @@
 ### Hi there 👋, my name is Ismaila Sylla, my friends call me Isma.
 
-#### I'm a Full Stack Developer
+#### I'm a Software Developer
 
-![I'm a Full Stack Developer](https://media-exp1.licdn.com/dms/image/C5116AQEWD5u_RHTEcA/profile-displaybackgroundimage-shrink_350_1400/0/1586945582767?e=1622073600&v=beta&t=pceO9zpthPENEtzOilcIv6WVPRjMLkpelmRca1MK9oQ)
+![I'm a Software Developer](https://media-exp1.licdn.com/dms/image/C5116AQEWD5u_RHTEcA/profile-displaybackgroundimage-shrink_350_1400/0/1586945582767?e=1622073600&v=beta&t=pceO9zpthPENEtzOilcIv6WVPRjMLkpelmRca1MK9oQ)
 
-My speciality resides in Front-End Development and Backend Using Frameworks like React, Angular and building backend services/API using Node.js SQL and No SQL. I am also familiar with blockchain technologies.
+My speciality resides in Both Front-End and Backend Development Using Frameworks like React, Angular and building backend services/API using Node.js SQL and No SQL. I am also familiar with blockchain technologies.
 
-Skills: React | Angular | Next.js | Node.js | HTML / CSS / JS / Bootstrap / Material CSS / Tailwin CSS, SQL, NoSql
+Skills: React | Angular | Next.js | Node.js | HTML / CSS / JS / Bootstrap / Material CSS / Tailwin CSS, SQL, NoSql , MongoDb, DynamoDb, Rest/RPC Api
 
 - 🔭 I’m currently working on few projects.
-- 🌱 I’m currently learning Blockchain developement | Ethereum, React, Angular, Next.js and designing Api services
+- 🌱 I’m currently learning Blockchain developement | Ethereum, React, Angular, Next.js and designing and buildong Api services
 - 👯 I’m looking to collaborate on Open Source projects
 - 💬 Ask me about Web Developement
 - 📫 How to reach me: LinkedIn at https://www.linkedin.com/in/ismaila-sylla-04377b126/
