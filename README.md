@@ -2,7 +2,7 @@
 
 #### I'm a Software Developer
 
-![I'm a Software Developer](https://media-exp1.licdn.com/dms/image/C5116AQEWD5u_RHTEcA/profile-displaybackgroundimage-shrink_350_1400/0/1586945582767?e=1622073600&v=beta&t=pceO9zpthPENEtzOilcIv6WVPRjMLkpelmRca1MK9oQ)
+[I'm a Software Developer](https://www.linkedin.com/in/ismaila-sylla-04377b126/)
 
 My speciality resides in Both Front-End and Backend Development Using Frameworks like React, Angular and building backend services/API using Node.js SQL and No SQL. I am also familiar with blockchain technologies.
 
