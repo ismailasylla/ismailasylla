@@ -6,7 +6,7 @@
 
 My speciality resides in Both Front-End and Backend Development Using Frameworks like React, Angular and building backend services/API using Node.js SQL and No SQL. I am also familiar with blockchain technologies.
 
-Skills: React | Angular | Next.js | Node.js | HTML / CSS / JS / Bootstrap / Material CSS / Tailwin CSS, SQL, NoSql , MongoDb, DynamoDb, Rest/RPC Api
+Skills: React | Angular | Next.js | Node.js | HTML / CSS / JS / Bootstrap / Material CSS / Tailwind CSS, SQL, NoSql , MongoDb, DynamoDb, Rest/RPC Api
 
 - 🔭 I’m currently working on few projects.
 - 🌱 I’m currently learning Blockchain developement | Ethereum, React, Angular, Next.js and designing and buildong Api services
