@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Ismaila, friends call me Isma.
+### Hey there 👋, my name is Ismaila, friends call me Isma.
 
 #### I'm a Senior Software Developer
 
