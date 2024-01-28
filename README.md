@@ -2,11 +2,9 @@
 
 #### I'm a Senior Software Developer
 
-[Check me out on Linkedin](https://www.linkedin.com/in/ismaila-sylla-04377b126/)
-
 My specialty lies in both Front-End and Backend Development. I use frameworks like React.JS, Angular, and build backend services/APIs using Node.js with SQL and NoSQL databases. I am also familiar with blockchain technologies.
 
-Skills: React.js | Angular | Next.js | Node.js | HTML / CSS / JS / Bootstrap / Material CSS / Tailwind CSS | SQL | NoSQL | MongoDB | DynamoDB | Rest/RPC API
+Skills: React.js | Redux | Angular | Next.js | Node.js | HTML / CSS / JS / Bootstrap / Material UI / antdesign / Tailwind CSS | SQL | NoSQL | MongoDB | DynamoDB | Rest/RPC API | Docker | Kubernetes | AI - Artificial Inteligence
 
 - 🔭 I’m currently working on a Government project.
 - 🌱 I’m currently learning AI Technologies, Blockchain Development (Ethereum), React, Angular, Next.js, and designing/building API services.
