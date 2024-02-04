@@ -2,7 +2,7 @@
 
 #### I'm a Senior Software Developer
 
-My specialty lies in both Front-End and Backend Development. I use frameworks like React.JS, Angular, and build backend services/APIs using Node.js with SQL and NoSQL databases. I am also familiar with blockchain technologies.
+My specialty lies in Front-End Development. I use frameworks like React.JS, Angular, and build backend services/APIs using Node.js with SQL and NoSQL databases. I am also familiar with blockchain technologies.
 
 Skills: React.js | Redux | Angular | Next.js | Node.js | HTML / CSS / JS / Bootstrap / Material UI / antdesign / Tailwind CSS | SQL | NoSQL | MongoDB | DynamoDB | Rest/RPC API | Docker | Kubernetes | AI - Artificial Inteligence
 
