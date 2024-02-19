@@ -1,25 +1,44 @@
-### Hey there 👋, my name is Ismaila, friends call me Isma.
 
-#### I'm a Senior Software Developer
+# Hey there! 👋 I'm Ismaila.
 
-My specialty lies in Both Frontend and Backend Development. I use frameworks like React.JS, Angular, and build backend microservices/API using Node.js with SQL and NoSQL databases. I am also familiar with blockchain technologies.
+## Senior Software Developer | Lead Developer | ReactJS | NodeJS | GraphQL | Kubernetes | Docker | Microservices | TAMM | Agile methodology | Blockchain Enthusiast | AI Explorer
 
-Skills: React.js | Redux | Angular | Next.js | Node.js | GraphQL | HTML / CSS / JS / Bootstrap / Material UI / antdesign / Tailwind CSS | SQL | NoSQL | MongoDB | DynamoDB | Rest/RPC API | Docker | Kubernetes | AI - Artificial Inteligence
+I specialize in both Frontend and Backend Development, utilizing frameworks like React.js, Angular, and building robust backend microservices/APIs using Node.js with SQL and NoSQL databases. Additionally, I'm well-versed in blockchain technologies.
 
-- 🔭 I’m currently working on a Government project.
-- 🌱 I’m currently learning AI Technologies, Blockchain Development (Ethereum), React, Angular, Next.js, and designing/building Microservices / GraphQL API services.
-- 👯 I’m looking to collaborate on Open Source projects.
-- 💬 Ask me about Web Development.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ismaila-sylla-04377b126/)
-- 😄 Pronouns: Akatsuki 🥷
-- ⚡ Fun fact: I am a JavaScript Ninja 😄 , not quite yet but working on that!
-- 🎮 I love Gaming.
-- ⚽️ 🏀 🏉 Sports Lover.
-- 🌴 🌳 🌺 Nature Guy.
-- 🥷 I love Animes.
+### Skills:
+React.js | Redux | Angular | Next.js | Node.js | GraphQL | HTML / CSS / JS | Bootstrap | Material UI | Ant Design | Tailwind CSS | SQL | NoSQL | MongoDB | DynamoDB | Rest/RPC API | Docker | Kubernetes | AI - Artificial Intelligence
 
-- Developing a MERN Stack Application, build with React, Redux && Node.js project, check it out at [Abu Dhabi TAMM Workbench](https://www.tamm.abudhabi/)
+### 🚀 Currently:
+- Working on a challenging Government project.
+- Learning AI Technologies and Blockchain Development (Ethereum).
+- Exploring React, Angular, Next.js, and designing/building Microservices and GraphQL API services.
 
+### 💬 Let's Connect:
+- [LinkedIn](https://www.linkedin.com/in/ismaila-sylla-04377b126/)
+
+### 😄 Fun Facts:
+- Pronouns: Akatsuki 🥷
+- I'm a JavaScript Ninja in the making!
+- Love gaming 🎮, sports ⚽️ 🏀 🏉, nature 🌴 🌳 🌺, and anime 🥷.
+
+### 🛠️ Projects:
+#### TAMM Services:
+- Pivotal role in development, achieving top 10 status under stringent government standards.
+  Explore: [TAMM Services](#)
+
+#### ATLP Application:
+- Significantly contributed to the advancement of the ATLP application.
+  Explore: [ATLP Application](#)
+
+#### Margo Application:
+- Enhanced features and functionality in the development of the Margo application.
+  Discover: [Margo Application](#)
+
+#### Al-Arabiya News Channel:
+- Active contribution to the development, ensuring quality content and user experience.
+  Visit: [Al-Arabiya News Channel](#)
+
+### 📊 GitHub Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ismailasylla&show_icons=true&count_private=true)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ismailasylla)
