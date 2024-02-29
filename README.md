@@ -24,19 +24,19 @@ React.js | Redux | Angular | Next.js | Node.js | GraphQL | HTML / CSS / JS | Boo
 ### 🛠️ Projects:
 #### TAMM Services:
 - Pivotal role in development, achieving top 10 status under stringent government standards.
-  Explore: [TAMM Services](#)
+  Explore: [TAMM Services](https://www.tamm.abudhabi/)
 
 #### ATLP Application:
 - Significantly contributed to the advancement of the ATLP application.
-  Explore: [ATLP Application](#)
+  Explore: [ATLP Application](https://www.atlp.ae/en)
 
 #### Margo Application:
 - Enhanced features and functionality in the development of the Margo application.
-  Discover: [Margo Application](#)
+  Discover: [Margo Application](https://www.margohub.com/)
 
 #### Al-Arabiya News Channel:
 - Active contribution to the development, ensuring quality content and user experience.
-  Visit: [Al-Arabiya News Channel](#)
+  Visit: [Al-Arabiya News Channel](https://english.alarabiya.net/?_gl=1*u88szo*_ga*NjM0OTExNjk1LjE3MDkxNzMyNTk.*_ga_576H90FZVV*MTcwOTE3MzI1OS4xLjAuMTcwOTE3MzI1OS42MC4wLjA.)
 
 ### 📊 GitHub Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ismailasylla&show_icons=true&count_private=true)
