@@ -11,7 +11,7 @@ React.js | React Native| Redux | Angular | Next.js | Node.js | GraphQL | HTML / 
 ### 🚀 Currently:
 - Working on a challenging Government project.
 - Learning AI Technologies and Blockchain Development (Ethereum).
-- Exploring React, Angular, Next.js, and designing/building Microservices and GraphQL API services.
+- Exploring React, Angular, Next.js, and designing/building Microservices and GraphQL & Restful APIs services.
 
 ### 💬 Let's Connect:
 - [LinkedIn](https://www.linkedin.com/in/ismaila-sylla-04377b126/)
