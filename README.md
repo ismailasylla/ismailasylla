@@ -6,7 +6,7 @@
 I specialize in both Frontend and Backend Development, utilizing frameworks like React.js, Angular, and building robust backend microservices/APIs using Node.js with SQL and NoSQL databases. Additionally, I'm well-versed in blockchain technologies.
 
 ### Skills:
-React.js | React Native| Redux | Angular | Next.js | Node.js | GraphQL | HTML / CSS / JS | Bootstrap | Material UI | Ant Design | Tailwind CSS | SQL | NoSQL | MongoDB | DynamoDB | Rest/RPC API | Docker | Kubernetes | AI - Artificial Intelligence
+React.js | React Native| Redux | Next.js | Node.js | GraphQL | HTML / CSS / JS | Bootstrap | Material UI | Ant Design | Tailwind CSS | SQL | NoSQL | MongoDB | DynamoDB | Rest/RPC API | Docker | Kubernetes | AI - Artificial Intelligence
 
 ### 🚀 Currently:
 - Working on a challenging Government project.
