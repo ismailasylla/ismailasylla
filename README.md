@@ -1,4 +1,3 @@
-
 # Hey there! 👋 I'm Ismaila.
 
 ## Senior Software Developer | Lead Developer | ReactJS | NodeJS | GraphQL | Kubernetes | Docker | Microservices | TAMM | Agile methodology | Blockchain Enthusiast | AI Explorer
@@ -14,7 +13,7 @@ React.js | React Native | Redux | Next.js | Node.js | GraphQL | HTML / CSS / JS 
 - Exploring React, Angular, Next.js, and designing/building Microservices and GraphQL & Restful APIs services.
 
 ### 💬 Let's Connect:
-- [LinkedIn](https://www.linkedin.com/in/ismaila-sylla-04377b126/)
+- [LinkedIn](https://www.linkedin.com/in/sylla-i-04377b126/)
 
 ### 😄 Fun Facts:
 - Pronouns: Akatsuki 🥷
